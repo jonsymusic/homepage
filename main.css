@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+  width: 95%;
+}
+
+#main-image {
+  height: 100%;
+  width: 100%;
+}
+
+#main-image img {
+  display: block;
+  max-height: 100%;
+  margin: auto;
+}
+
+#sub {
+  width: 100%;
+  text-align: center;
+}
+
+.link-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.link-container .link {
+  margin-left: 15px;
+  margin-right: 15px;
+}
