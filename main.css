@@ -2,7 +2,7 @@ body {
   background-color: 181818;
   color: white;
   width: 95%;
-font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
 }
 
 h1 {
@@ -34,6 +34,15 @@ a:hover {
   width: 100%;
   text-align: center;
 }
+
+#sub a {
+  color: #ff7575;
+}
+
+#sub a:hover {
+  color: red;
+}
+
 
 .link-container {
   display: flex;
